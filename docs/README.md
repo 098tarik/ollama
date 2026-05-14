@@ -20,4 +20,5 @@
 
 * [Troubleshooting Guide](https://docs.ollama.com/troubleshooting)
 * [FAQ](https://docs.ollama.com/faq#faq)
+* [Distributed Routing Across Two Ollama Nodes](./distributed-routing.md)
 * [Development guide](./development.md)
